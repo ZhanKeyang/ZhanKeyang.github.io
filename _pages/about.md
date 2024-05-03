@@ -1,11 +1,15 @@
 ---
 permalink: /
-title: "Welcome to My Website!"
+title: "Zhan Keyang's Website"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+------
+
+Welcome to My Website!
+======
 ------
 
 Thank you for checking out my homepage! You can see my personal information, research interests, research achievements and so on. If you are interested in my research, we can contact through Email or even establish a partnership. Wish you a pleasant journey in my website!
