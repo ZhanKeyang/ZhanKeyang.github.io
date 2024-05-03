@@ -32,4 +32,4 @@ Research Interests
 
 ***3. Policy evaluation with Chinese characteristics***
 
-***⭐⭐⭐If you are also interested in the above topics, looking forward to cooperating with me!⭐⭐⭐***
+***⭐If you are also interested in the above topics, looking forward to cooperating with me!⭐***
