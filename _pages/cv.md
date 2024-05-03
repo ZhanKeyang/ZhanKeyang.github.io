@@ -1,64 +1,66 @@
 ---
 layout: archive
-title: "CV"
+title: "奖项荣誉"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
+------
+*1.本科生国家奖学金(2023.9)*
 
-{% include base_path %}
+*2.正大杯第十二届全国大学生市场调研与分析大赛江苏赛区一等奖(2022.4)*
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+*3.数维杯数学建模大赛国际赛S奖(2023.1)*
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+*4.《基于长篇文字查询关键词的软件V1.0》软件著作(2021.10)*
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+*5.《基于face++和eastDL的人脸识别与物体检测软件V1.0》软件著作(2021.11)*
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+*6.东南大学第十二届大学生学术报告会优秀论文(2023.5; 汇报论文：数字技术能促进服务业碳减排吗——“倒U型”理论的经济逻辑和中国经验证据)*
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+*7.东南大学第十三届大学生学术报告会优秀论文(2024.5; 汇报论文：碳市场与碳减排：来自中国的经验和证据)*
+
+*8.首届理论经济学会议三等奖(2023.10; 汇报论文：数字技术能促进服务业碳减排吗——“倒U型”理论的经济逻辑和中国经验证据)*
+
+*9.东南大学EMBA校友奖学金（2023.5; 2000元）*
+
+*10.东南大学至善学子奖(2021.12; 2000元)*
+
+*11.东南大学优秀共青团员(2023.5)*
+
+*12.东南大学三好学生(2021.10;2023.10)*
+
+*13.东南大学第十二届市场调研大赛第二名(2022.3)*
+
+*14.东南大学结构创新竞赛优秀奖(2021.7)*
+
+*15.东南大学优秀省负责人称号(2022.6)*
+
+*16.东南大学山东省招生宣传“学子代言人(2022.6)*
+
+*17.东南大学“鸿声东南·阅读者”书评竞赛一等奖(2020.12)*
+
+*18.东南大学“怦然心东，回访母校”志愿活动三等奖(2021.4)*
+
+*19.东南大学“一封家书”主题征文活动二等奖(2020.12)*
+
+*20.东南大学至善政青年优秀称号(2021.4)*
+
+志愿服务
+=====
+------
+
+*累计支援服务时长**112**小时，参与东南大学寒假返校宣讲活动、秉文书院值班志愿者活动等*
+
+社会实践
+=====
+------
+
+*累计参与至善政青年等校级、院级社会实践活动3次*
+
+学生工作
+=====
+------
+
+*曾负责东南大学在山东省的招生宣传工作、乒乓球协会宣传工作等一系列学生工作*
