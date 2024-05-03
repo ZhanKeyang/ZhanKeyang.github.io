@@ -24,12 +24,12 @@ Research Interests
 ======
 ------
 
-My research interests focus on **Environmental Economics**, **Macroeconomic Analysis** and **Policy Evaluation**. In detail, the researches involve:
+*My research interests focus on **Environmental Economics**, **Macroeconomic Analysis** and **Policy Evaluation**. In detail, the researches involve:*
 
-**1. Economic impact of carbon emissions and feasibility of carbon reduction**
+***1. Economic impact of carbon emissions and feasibility of carbon reduction***
 
-**2. The new impact of digital economy on enterprise development**
+***2. The new impact of digital economy on enterprise development***
 
-**3. Policy evaluation with Chinese characteristics**
+***3. Policy evaluation with Chinese characteristics***
 
 ***⭐⭐⭐If you are also interested in the above topics, looking forward to cooperating with me!⭐⭐⭐***
